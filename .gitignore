@@ -1,0 +1,12 @@
+data/
+ckpts/
+.history/
+logs/
+metrics/chase/
+metrics/dusql/
+metrics/cosql/
+metrics/sparc/
+metrics/spider/
+third_party/
+
+
